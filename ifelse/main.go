@@ -10,9 +10,9 @@ func main() {
 	} else {
 		fmt.Println("Output Is Odd")
 	}
-	if 10%5 == 2 {
-		fmt.Println("Remainder  is 2")
+	if 10%5 == 0 {
+		fmt.Println("Remainder  is 0")
 	} else {
-		fmt.Println("Remainder is Something Else")
+		fmt.Printf("Remainder is %d", 10%5)
 	}
 }
