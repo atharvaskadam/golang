@@ -18,7 +18,11 @@ func writeFile() {
 	}
 }
 func readFile() {
+
 	data, err := ioutil.ReadFile("Student.txt")
+
+	data, err := os.ReadFile("Student.txt")
+
 	if err != nil {
 		panic(err)
 	}
@@ -27,4 +31,4 @@ func readFile() {
 func main() {
 	writeFile()
 	readFile()
-}
+
