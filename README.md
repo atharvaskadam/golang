@@ -149,3 +149,148 @@
 | Txt Syntax | `xshrim.txt-syntax` | General | highlight text files(.txt, .out .tmp, .log, .ini, .cnf ...) and provide general utility tools for text documents |
 | Markdown All in One | `yzhang.markdown-all-in-one` | Markdown | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more) |
 | [Deprecated] Debugger for Chrome | `msjsdiag.debugger-for-chrome` | Web | Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol. |
+
+## Command to List Extensions
+
+Run this command in VSCode Terminal to list all your extensions `code --list-extensions | % { "code --install-extension $_" }`
+
+```powershell
+code --list-extensions | % { "code --install-extension $_" }
+---------------------------------------------------------------
+List Update Date : 2020-06-17
+---------------------------------------------------------------
+code --install-extension 2gua.rainbow-brackets
+code --install-extension 4ops.terraform
+code --install-extension aaron-bond.better-comments
+code --install-extension abusaidm.html-snippets
+code --install-extension aeschli.vscode-css-formatter
+code --install-extension ahebrank.yaml2json
+code --install-extension akamud.vscode-javascript-snippet-pack
+code --install-extension alefragnani.Bookmarks
+code --install-extension alefragnani.project-manager
+code --install-extension amazonwebservices.aws-toolkit-vscode
+code --install-extension AntStack.aws-js-code-snippet
+code --install-extension ask-toolkit.alexa-skills-kit-toolkit
+code --install-extension aws-scripting-guy.cform
+code --install-extension be5invis.vscode-custom-css
+code --install-extension blackmist.LinkCheckMD
+code --install-extension BlitZz.twitch-chat
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dandric.vscode-jq
+code --install-extension DanielThielking.aws-cloudformation-yaml
+code --install-extension dannysteenman.cloudformation-yaml-snippets
+code --install-extension Dart-Code.dart-code
+code --install-extension Dart-Code.flutter
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension docsmsft.docs-article-templates
+code --install-extension docsmsft.docs-authoring-pack
+code --install-extension docsmsft.docs-build
+code --install-extension docsmsft.docs-images
+code --install-extension docsmsft.docs-linting
+code --install-extension docsmsft.docs-markdown
+code --install-extension docsmsft.docs-metadata
+code --install-extension docsmsft.docs-preview
+code --install-extension docsmsft.docs-scaffolding
+code --install-extension docsmsft.docs-visual-areas
+code --install-extension docsmsft.docs-yaml
+code --install-extension donjayamanne.githistory
+code --install-extension donjayamanne.jquerysnippets
+code --install-extension DotJoshJohnson.xml
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension ExodiusStudios.comment-anchors
+code --install-extension fabiospampinato.vscode-diff
+code --install-extension fabiospampinato.vscode-todo-plus
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension formulahendry.code-runner
+code --install-extension formulahendry.terminal
+code --install-extension gera2ld.markmap-vscode
+code --install-extension GitHub.copilot
+code --install-extension GitHub.github-vscode-theme
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension golang.go
+code --install-extension hashicorp.terraform
+code --install-extension HookyQR.beautify
+code --install-extension HookyQR.minify
+code --install-extension huizhou.githd
+code --install-extension jock.svg
+code --install-extension john-goldsmith.vscode-aws-cloudformation-auto-template-generator
+code --install-extension jprestidge.theme-material-theme
+code --install-extension jq-syntax-highlighting.jq-syntax-highlighting
+code --install-extension kddejong.vscode-cfn-lint
+code --install-extension KnisterPeter.vscode-github
+code --install-extension ljacobsson.cfn-resource-actions
+code --install-extension mechatroner.rainbow-csv
+code --install-extension mhutchie.git-graph
+code --install-extension mintlify.document
+code --install-extension ms-azuretools.vscode-azureappservice
+code --install-extension ms-azuretools.vscode-azureresourcegroups
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-mssql.data-workspace-vscode
+code --install-extension ms-mssql.mssql
+code --install-extension ms-mssql.sql-bindings-vscode
+code --install-extension ms-mssql.sql-database-projects-vscode
+code --install-extension ms-python.anaconda-extension-pack
+code --install-extension ms-python.isort
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-toolsai.vscode-jupyter-cell-tags
+code --install-extension ms-toolsai.vscode-jupyter-slideshow
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode.azure-account
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.live-server
+code --install-extension ms-vscode.powershell
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension msjsdiag.vscode-react-native
+code --install-extension mtxr.sqltools
+code --install-extension mtxr.sqltools-driver-mysql
+code --install-extension mtxr.sqltools-driver-pg
+code --install-extension njpwerner.autodocstring
+code --install-extension oderwat.indent-rainbow
+code --install-extension PKief.material-icon-theme
+code --install-extension platformio.platformio-ide
+code --install-extension pmneo.tsimporter
+code --install-extension pnp.polacode
+code --install-extension qinjia.view-in-browser
+code --install-extension rafwilinski.serverless-vscode-snippets
+code --install-extension rangav.vscode-thunder-client
+code --install-extension redhat.java
+code --install-extension redhat.vscode-commons
+code --install-extension redhat.vscode-yaml
+code --install-extension ritwickdey.LiveServer
+code --install-extension RobbOwen.synthwave-vscode
+code --install-extension run-at-scale.terraform-doc-snippets
+code --install-extension securisec.serverless-completer
+code --install-extension shardulm94.trailing-spaces
+code --install-extension shinhwagk.vscode-note
+code --install-extension SirTori.indenticator
+code --install-extension SonarSource.sonarlint-vscode
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension TabNine.tabnine-vscode
+code --install-extension TeamHub.teamhub
+code --install-extension timkmecl.chatgpt
+code --install-extension TimVaneker.serverless-snippets
+code --install-extension tkrkt.linenote
+code --install-extension tonybaloney.vscode-pets
+code --install-extension trunk.io
+code --install-extension Tyriar.sort-lines
+code --install-extension usernamehw.errorlens
+code --install-extension vikas.code-navigation
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension WallabyJs.quokka-vscode
+code --install-extension WASTeamAccount.WebTemplateStudio-dev-nightly
+code --install-extension wesbos.theme-cobalt2
+code --install-extension xabikos.JavaScriptSnippets
+code --install-extension xshrim.txt-syntax
+code --install-extension yzhang.markdown-all-in-one
+```
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam&label=atharvaskadam&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=atharvaskadam)
