@@ -10,7 +10,7 @@
 ---
 # VSCode Extensions List
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=aasisodiya.general.vscode.extension&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=aasisodiya.general.vscode.extension)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam.general.vscode.extension&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=atharvaskadam.general.vscode.extension)
 
 ## List of Useful VSCode Extension
 
