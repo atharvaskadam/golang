@@ -47,7 +47,7 @@ The int, uint, and uintptr types are usually 32 bits wide on 32-bit systems and 
 
 > Reference: [strconv - Go Doc](https://golang.org/pkg/strconv/)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam&label=atharvaskadam&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=aasisodiya.go)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam&label=atharvaskadam&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=atharvaskadam)
 # VSCode Extensions List
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=atharvaskadam)
