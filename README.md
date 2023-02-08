@@ -1,4 +1,4 @@
-# This Is My Golang Repository
+# This Is My Go Lang Repository
 
 ## It Contains All Basic Program's
 
