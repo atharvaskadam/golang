@@ -1,6 +1,6 @@
 # This Is My Go Lang Repository
 
-## It Contains All The Basic Program's Of Golang 
+## It Contains All The Basic Program's
 
 ---
 
