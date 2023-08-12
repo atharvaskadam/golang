@@ -14,7 +14,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=atharvaskadam&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)
 
-Go's basic types are
+Go basic types are
 
 - bool
 - string
